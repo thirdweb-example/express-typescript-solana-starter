@@ -1,3 +1,7 @@
+# Express Typescript Solana Starter
+
+Starter template for Express.js, TypeScript, and the thirdweb Solana SDK.
+
 ## Using This Template
 
 Create a project using this example:

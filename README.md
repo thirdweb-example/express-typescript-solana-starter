@@ -17,6 +17,8 @@ npm install # npm
 yarn # yarn
 ```
 
+Using private keys as an env variable is vulnerable to attacks and is not best practice. We are doing it in this guide for the sake of brevity, but we strongly recommend using a [secret manager to store your private key](https://portal.thirdweb.com/sdk/set-up-the-sdk/securing-your-private-key).
+
 - Export your wallet private key from your wallet and add it to the .env file.
 
 ```env
